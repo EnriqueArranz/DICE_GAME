@@ -5,11 +5,12 @@ Dice Game is a Java application that implements a classic dice game. Players rol
 ## Features
 Registration: Users can register with a unique name or choose to remain anonymous.
 Rolling Dice: Players can roll the dice to play the game.
-Roll History: Each player can view their roll history, including the value of each die and the outcome of the game (win or lose).
+Roll History: Each player can view their roll history, including the value of each dice and the outcome of the game (win or lose).
 Success Rate: Players can see their success rate, calculated based on all their rolls.
 Player Management: Players can update their names and delete their roll history.
 Leaderboard: The software provides functionalities to list all players, their success rates, and the average success rate of all players in the system.
-Design Patterns
+
+## Design Patterns
 The software follows the principles of various design patterns to ensure scalability, maintainability, and extensibility.
 
 
